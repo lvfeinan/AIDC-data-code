@@ -1,0 +1,6 @@
+# Python >= 3.10. Versions used to draw the published figures.
+numpy==1.26.4
+matplotlib==3.9.0
+ultraplot==1.0.5
+cartopy==0.25.0
+shapely==2.0.1

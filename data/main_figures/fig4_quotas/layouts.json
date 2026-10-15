@@ -1,0 +1,421 @@
+{
+ "free|0|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.6067328328477277,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.563732832847728,
+  "eco": -12.855125915482382,
+  "access": 4.684109780133207,
+  "regions": {
+   "North": 430,
+   "Northeast": 169,
+   "Northwest": 39
+  },
+  "top3_share": 0.9937304075235109
+ },
+ "free|0|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.067437399795732,
+   "pv_barren": 0.49488286229993883,
+   "pv_grassland": 0.07489477455955634
+  },
+  "land_total": 4.5942150366552275,
+  "eco": 2.209924747081926e-05,
+  "access": 11.61811248629569,
+  "regions": {
+   "North": 166,
+   "Northwest": 468,
+   "South": 2,
+   "Southwest": 2
+  },
+  "top3_share": 0.9655172413793104
+ },
+ "free|60|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.6067328328477277,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.563732832847728,
+  "eco": -12.855125915482382,
+  "access": 4.684109780133207,
+  "regions": {
+   "North": 430,
+   "Northeast": 169,
+   "Northwest": 39
+  },
+  "top3_share": 0.9937304075235109
+ },
+ "free|60|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.070317241793168,
+   "pv_barren": 0.49488286229993883,
+   "pv_grassland": 0.07489477455955634
+  },
+  "land_total": 4.597094878652664,
+  "eco": 0.0007838882173766826,
+  "access": 11.48027672746463,
+  "regions": {
+   "North": 181,
+   "Northwest": 453,
+   "South": 2,
+   "Southwest": 2
+  },
+  "top3_share": 0.9639498432601881
+ },
+ "free|80|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.6067328328477277,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.563732832847728,
+  "eco": -12.855125915482382,
+  "access": 4.684109780133207,
+  "regions": {
+   "North": 430,
+   "Northeast": 169,
+   "Northwest": 39
+  },
+  "top3_share": 0.9937304075235109
+ },
+ "free|80|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.045345768788683,
+   "pv_barren": 0.5684350550537459,
+   "pv_grassland": 0.07489477455955634
+  },
+  "land_total": 4.6456755984019855,
+  "eco": 1.914508950540128e-06,
+  "access": 10.999769402384883,
+  "regions": {
+   "North": 256,
+   "Northwest": 378,
+   "South": 2,
+   "Southwest": 2
+  },
+  "top3_share": 0.9764890282131662
+ },
+ "free|100|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.6146438568329806,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.571643856832981,
+  "eco": -13.270799698125892,
+  "access": 4.676121227170731,
+  "regions": {
+   "North": 457,
+   "Northeast": 178,
+   "Northwest": 3
+  },
+  "top3_share": 1.0
+ },
+ "free|100|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.1052958986115993,
+   "pv_barren": 0.4470084159961354,
+   "pv_grassland": 0.5902916850535432
+  },
+  "land_total": 5.099595999661278,
+  "eco": 0.0005164171688659125,
+  "access": 10.565947107025572,
+  "regions": {
+   "North": 309,
+   "Northwest": 326,
+   "South": 3
+  },
+  "top3_share": 0.9984326018808777
+ },
+ "region|0|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.610157979588441,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.5671579795884414,
+  "eco": -11.533194944631916,
+  "access": 4.904814208089496,
+  "regions": {
+   "North": 492,
+   "Northeast": 102,
+   "Northwest": 44
+  },
+  "top3_share": 0.9937304075235109
+ },
+ "region|0|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.029164906083172,
+   "pv_barren": 0.5493379466910908,
+   "pv_grassland": 0.07489477455955634
+  },
+  "land_total": 4.610397627333819,
+  "eco": 0.00015649813888318764,
+  "access": 11.443974597214904,
+  "regions": {
+   "North": 245,
+   "Northwest": 389,
+   "South": 2,
+   "Southwest": 2
+  },
+  "top3_share": 0.9639498432601881
+ },
+ "region|60|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.610157979588441,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.5671579795884414,
+  "eco": -11.533194944631916,
+  "access": 4.904814208089496,
+  "regions": {
+   "North": 492,
+   "Northeast": 102,
+   "Northwest": 44
+  },
+  "top3_share": 0.9937304075235109
+ },
+ "region|60|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.0294107652702675,
+   "pv_barren": 0.5493379466910908,
+   "pv_grassland": 0.07489477455955634
+  },
+  "land_total": 4.610643486520916,
+  "eco": 5.460623905978457e-05,
+  "access": 11.485193729039395,
+  "regions": {
+   "North": 245,
+   "Northwest": 389,
+   "South": 2,
+   "Southwest": 2
+  },
+  "top3_share": 0.963949843260188
+ },
+ "region|80|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.610157979588441,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.5671579795884414,
+  "eco": -11.533194944631916,
+  "access": 4.904814208089496,
+  "regions": {
+   "North": 492,
+   "Northeast": 102,
+   "Northwest": 44
+  },
+  "top3_share": 0.9937304075235109
+ },
+ "region|80|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.0635847156852716,
+   "pv_barren": 0.5493379466910908,
+   "pv_grassland": 0.07489477455955634
+  },
+  "land_total": 4.644817436935919,
+  "eco": 4.7060127628117954e-08,
+  "access": 11.06451015834898,
+  "regions": {
+   "North": 249,
+   "Northwest": 385,
+   "South": 2,
+   "Southwest": 2
+  },
+  "top3_share": 0.9749216300940439
+ },
+ "region|100|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.619326867873698,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.5763268678736977,
+  "eco": -11.810027074734052,
+  "access": 5.01226390417093,
+  "regions": {
+   "North": 529,
+   "Northeast": 102,
+   "Northwest": 7
+  },
+  "top3_share": 1.0
+ },
+ "region|100|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.1046459391090755,
+   "pv_barren": 0.4470084159961354,
+   "pv_grassland": 0.5902916850535432
+  },
+  "land_total": 5.098946040158754,
+  "eco": 0.00012409507522742613,
+  "access": 10.57306234972355,
+  "regions": {
+   "North": 311,
+   "Northwest": 324,
+   "South": 3
+  },
+  "top3_share": 0.9984326018808777
+ },
+ "province|0|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.78621601084075,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.74321601084075,
+  "eco": -15.458286105496267,
+  "access": 4.598257765974246,
+  "regions": {
+   "East": 2,
+   "North": 269,
+   "Northeast": 135,
+   "Northwest": 221,
+   "South": 11
+  },
+  "top3_share": 0.7084639498432601
+ },
+ "province|0|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.9008742259817337,
+   "pv_barren": 2.2152075568309555,
+   "pv_grassland": 2.2818264673650486
+  },
+  "land_total": 8.354908250177738,
+  "eco": 0.00020054502977728816,
+  "access": 7.5842816982461105,
+  "regions": {
+   "Central": 16,
+   "East": 2,
+   "North": 230,
+   "Northeast": 40,
+   "Northwest": 337,
+   "South": 4,
+   "Southwest": 9
+  },
+  "top3_share": 0.5799373040752351
+ },
+ "province|60|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.790051196754034,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.7470511967540343,
+  "eco": -14.902439807708443,
+  "access": 4.578365430513021,
+  "regions": {
+   "North": 261,
+   "Northeast": 135,
+   "Northwest": 233,
+   "South": 9
+  },
+  "top3_share": 0.7084639498432601
+ },
+ "province|60|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.8676876328444845,
+   "pv_barren": 2.4207378430854294,
+   "pv_grassland": 2.4902118749470796
+  },
+  "land_total": 8.735637350876994,
+  "eco": 9.814596651391838e-06,
+  "access": 7.4220127727015015,
+  "regions": {
+   "Central": 13,
+   "East": 17,
+   "North": 278,
+   "Northeast": 21,
+   "Northwest": 290,
+   "South": 10,
+   "Southwest": 9
+  },
+  "top3_share": 0.6363636363636365
+ },
+ "province|80|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.9372698188112563,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 3.8942698188112557,
+  "eco": -17.51023476280663,
+  "access": 4.038303948389201,
+  "regions": {
+   "East": 85,
+   "North": 257,
+   "Northeast": 65,
+   "Northwest": 207,
+   "South": 8,
+   "Southwest": 16
+  },
+  "top3_share": 0.6567398119122256
+ },
+ "province|80|no_loss": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 2.668037911044038,
+   "pv_barren": 7.276064010163379,
+   "pv_grassland": 2.02750862170639
+  },
+  "land_total": 12.928610542913807,
+  "eco": 6.739281784717832e-05,
+  "access": 5.842546162973212,
+  "regions": {
+   "Central": 1,
+   "East": 79,
+   "North": 330,
+   "Northeast": 2,
+   "Northwest": 201,
+   "South": 18,
+   "Southwest": 7
+  },
+  "top3_share": 0.6018808777429467
+ },
+ "province|100|least_land": {
+  "land": {
+   "data_centre": 0.957,
+   "wind": 3.1819790952596207,
+   "pv_barren": 0.0,
+   "pv_grassland": 0.0
+  },
+  "land_total": 4.138979095259621,
+  "eco": -22.86603341542645,
+  "access": 2.9171256207311167,
+  "regions": {
+   "East": 197,
+   "North": 259,
+   "Northeast": 53,
+   "Northwest": 93,
+   "South": 14,
+   "Southwest": 22
+  },
+  "top3_share": 0.7539184952978055
+ },
+ "province|100|no_loss": null
+}
