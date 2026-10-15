@@ -1,0 +1,9 @@
+config.yaml
+outputs/*
+!outputs/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+*.nc
+*.tif
+data/boundaries/
+*.pyc
